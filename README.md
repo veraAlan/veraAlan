@@ -11,7 +11,7 @@ I'm using two OS: Windows on a desktop computer and <img src="https://github.com
 
 | Back-End | Front-End |
 |-----|-----------|
-| <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/d3e7a09e-00f3-4ed8-99bf-b003d7b70c53" alt="PHP" height="50" width="50" /><img src="https://github.com/veraAlan/veraAlan/assets/93807967/67da5bab-db20-41c8-b576-e499eddf5aad" alt="Javascript" height="50" width="50" /></p> | <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/dab51da2-4007-4355-9688-ab415fbc2730" alt="React" height="50" width="50" /></p> |
+| <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/d3e7a09e-00f3-4ed8-99bf-b003d7b70c53" alt="PHP" height="50" width="50" /></p> | <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/67da5bab-db20-41c8-b576-e499eddf5aad" alt="Javascript" height="50" width="50" /><img src="https://github.com/veraAlan/veraAlan/assets/93807967/dab51da2-4007-4355-9688-ab415fbc2730" alt="React" height="50" width="50" /></p> |
 
 | Game Creation 🎮 | Minecraft Mods |
 |-----|-----------|
