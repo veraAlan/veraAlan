@@ -5,9 +5,7 @@ I started creating applications in C++, Python, and Ruby.
 
 Studying web development introduced me to frameworks like Laravel and Spring Boot. 
 
-I have experience with libraries such as React and Bootstrap, as well as the process of organizing and designing websites and overcoming their challenges. 
-
-I am less than proficient in Java, C/C++, PHP, Python, and Ruby.
+I love learning about new frameworks/libraries that can help automate and improve the creation of apps.
 
 I'm using two OS: Windows/<img src="https://github.com/veraAlan/veraAlan/assets/93807967/ed992a4c-5dcb-4658-a8d2-57aadbe6fef2" alt="PHP" height="20" width="20" /> on a desktop computer and <img src="https://github.com/veraAlan/veraAlan/assets/93807967/ed992a4c-5dcb-4658-a8d2-57aadbe6fef2" alt="PHP" height="20" width="20" /> Arch Linux on a laptop.
 
