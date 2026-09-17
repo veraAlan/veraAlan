@@ -29,7 +29,7 @@ I'm using two OS: Windows/<img src="https://github.com/veraAlan/veraAlan/assets/
 ---
 | Other | Learning 👀 |
 |-----|-----------|
-| <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/15a6edd2-8fe5-4d40-be27-af112798e9c5" alt="Python" height="50" width="50" /><img src="https://github.com/veraAlan/veraAlan/assets/93807967/1334ff95-19e9-4a67-bb19-b37139cefc20" alt="Ruby" height="50" width="50" /></p> | <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/07f32e8b-7d0c-463f-ba7d-27c15eecd0c1" alt="TypeScript" height="50" width="50" /><img src="https://github.com/veraAlan/veraAlan/assets/93807967/f945183b-76f8-4e17-a605-16021c1fb434" alt="Rust" height="50" width="50" /></p> |
+| <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/15a6edd2-8fe5-4d40-be27-af112798e9c5" alt="Python" height="50" width="50" /></p> | <p align='left'><img src="https://github.com/veraAlan/veraAlan/assets/93807967/07f32e8b-7d0c-463f-ba7d-27c15eecd0c1" alt="TypeScript" height="50" width="50" /></p> |
 
 ## 🌱 Small Projects (For University)
 | Subject | Framework |
